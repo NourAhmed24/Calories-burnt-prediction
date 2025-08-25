@@ -1,5 +1,5 @@
 <h1 align="left">🏋️ Calories Burnt Prediction using Machine Learning ⚡</h1>
-<h5>Project Description</h5>
+<h2>Project Description</h2>
 
 This project aims to build a machine learning model that accurately predicts the number of calories a person burns during physical activity. The model is trained on a dataset containing various fitness-related features, such as heart rate, body temperature, and duration of exercise. This tool can be used by fitness enthusiasts or health professionals to get an estimated calorie expenditure based on their workout data.
 Features
@@ -11,8 +11,9 @@ Features
     Prediction: Uses the trained model to predict calories burned based on new input data.
 
     Performance Evaluation: Reports key metrics such as Mean Absolute Error (MAE) and R-squared score to assess the model's accuracy.
+   
+<h2>Technologies Used</h2>
 
-Technologies Used
 
     Python: The core programming language for the project.
 
@@ -25,7 +26,8 @@ Technologies Used
     Matplotlib / Seaborn: For data visualization (optional, but recommended for EDA).
 
 
-Dataset
+<h2>Dataset</h2>
+
 
 This project uses a dataset containing various features such as User_ID, Gender, Age, Height, Weight, Duration (of activity), Heart_Rate, Body_Temp, and Calories (the target variable).
 Contributing

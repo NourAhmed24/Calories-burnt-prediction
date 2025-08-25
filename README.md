@@ -1,5 +1,5 @@
-Calories Burnt Prediction using Machine Learning 🔥
-Project Description
+<h1 align="left">🏋️ Calories Burnt Prediction using Machine Learning ⚡</h1>
+<h5>Project Description</h5>
 
 This project aims to build a machine learning model that accurately predicts the number of calories a person burns during physical activity. The model is trained on a dataset containing various fitness-related features, such as heart rate, body temperature, and duration of exercise. This tool can be used by fitness enthusiasts or health professionals to get an estimated calorie expenditure based on their workout data.
 Features
@@ -30,8 +30,3 @@ Dataset
 This project uses a dataset containing various features such as User_ID, Gender, Age, Height, Weight, Duration (of activity), Heart_Rate, Body_Temp, and Calories (the target variable).
 Contributing
 
-
-
-License
-
-Distributed under the MIT License. See LICENSE.md for more information.
